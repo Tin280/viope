@@ -1,6 +1,6 @@
 /*
 Working hours calculator
-
+Tin
 Write a program that calculates the number of hours worked within a specific
 period and prints the total number of hours, the average length of a day and an
 itemisation of the hours entered. First, the program must ask how many days of
